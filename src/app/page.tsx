@@ -1,3 +1,5 @@
+"use client";
+
 import Link from "next/link";
 import { Button, Container, Typography, Box } from "@mui/material";
 import { useAuth } from "@/context/AuthContext";
